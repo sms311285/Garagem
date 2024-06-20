@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208978160393",
+    "project_id": "garagem-app",
+    "storage_bucket": "garagem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208978160393:android:172f3d24b33774c54f41d8",
+        "android_client_info": {
+          "package_name": "com.example.garagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208978160393-iodo5me7hipq4gf2qmmetjfrv4s6vl17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYq6oo92OWx2ynE4XlnGyu86luGtMjJCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208978160393-iodo5me7hipq4gf2qmmetjfrv4s6vl17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
